@@ -14,3 +14,4 @@
 
 * [记录1](ai-he-zuo-ni-xiang/ji-lu-1.md)
 * [记录2](ai-he-zuo-ni-xiang/ji-lu-2.md)
+* [记录3](ai-he-zuo-ni-xiang/ji-lu-3.md)
